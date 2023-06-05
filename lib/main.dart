@@ -110,7 +110,7 @@ class _MusicAppState extends State<MusicApp> {
                 Padding(
                   padding: const EdgeInsets.only(left: 12.0),
                   child: Text(
-                    "Music Beats",
+                    "Owais Music",
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 38.0,
